@@ -1,9 +1,9 @@
 
 spring:
   datasource:
-    url: jdbc:mysql://10.42.206.2:3306/assignmentDB
-    username: zentalentdev
-    password: 3k2@M5t6
+    url: jdbc:mysql://localhost:3306/springDb
+    username: root
+    password: meenaMe1
     driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     hibernate:
